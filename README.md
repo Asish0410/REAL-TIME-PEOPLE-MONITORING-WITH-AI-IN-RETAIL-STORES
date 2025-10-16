@@ -1,0 +1,5 @@
+# REAL-TIME-PEOPLE-MONITORING-WITH-AI-IN-RETAIL-STORES-
+This project is an AI-powered system for real-time people monitoring in retail stores. 
+It uses computer vision (YOLO + OpenCV) to detect, count, and track customers, providing insights like footfall, dwell time, and store heatmaps. 
+The system improves operational efficiency through queue management and staff planning, while also enhancing safety by monitoring occupancy and detecting anomalies.
+All data is stored and visualized on dashboards to support real-time decision making.
